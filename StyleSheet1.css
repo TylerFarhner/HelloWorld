@@ -1,0 +1,59 @@
+﻿body {
+    background: black;
+    background-image: url("https://images.unsplash.com/photo-1554381316-e7ae6a16bdf4?ixlib=rb-1.2.1&w=1000&q=80");
+    background-position: center;
+    color: white;
+    text-align: center;
+}
+img {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: white;
+    height: 150px;
+    width: 150px;
+    background-size: auto;
+}
+h1 {
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 75px;
+    color: rgb(196, 196, 196,.7);
+}
+h2 {
+    font-family: 'Piedra', cursive;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(255, 255, 255, .9);
+}
+.Header {
+    background: white;
+    background: url('motopic.jpg');
+    background-size: 15%;
+}
+.Ty {
+    background-color: black;
+    opacity: .5;
+}
+article {
+    
+    margin-left: 20%;
+    margin-right: 20%;
+    color: White;
+    background-color: black;
+    opacity: .8;
+    text-size: 15px;
+    font-family: 'Yu Gothic';
+}
+.Contact {
+    margin-left: 20%;
+    margin-right: 20%;
+    color: White;
+    background-color: black;
+    opacity: .8;
+}
+ul {
+}
+button {
+    background: rgb(163, 0, 0,.5);
+    color: silver;
+}
